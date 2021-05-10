@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.1.2.0.RJDCNXM/miui_APOLLO_V12.1.2.0.RJDCNXM_92b3e361e9_11.0.zip
+  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/meizu18/9.0.2.1/cn/20210425155631/6b138a10/update.zip
   ROM_NAME: Generic
   TZ: Asia/Shanghai
 
@@ -58,7 +58,7 @@ jobs:
          run: |
               cd $GITHUB_WORKSPACE/ErfanGSIs/output
               curl -sL https://git.io/file-transfer | sh
-              ./transfer wet/final/GSI.zip
+              ./transfer gof final/GSI.zip
 
          
             
