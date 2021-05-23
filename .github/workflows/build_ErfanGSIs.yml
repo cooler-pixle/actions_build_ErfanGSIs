@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/meizu18/9.0.2.1/cn/20210425155631/6b138a10/update.zip
-  ROM_NAME: Generic
+  ROM_URL: https://bigota.d.miui.com/V11.0.5.0.PCACNXM/miui_MI6_V11.0.5.0.PCACNXM_996ffd2660_9.0.zip
+  ROM_NAME: Miui
   TZ: Asia/Shanghai
 
 jobs:
