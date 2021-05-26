@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.5.1.0.RJDCNXM/miui_APOLLO_V12.5.1.0.RJDCNXM_2efbaeca9c_11.0.zip
-  ROM_NAME: Generic
+  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/meizu17/8.2.0.0/cn/20210125181845/97b4c11e/update.zip
+  ROM_NAME: Flyme
   TZ: Asia/Shanghai
 
 jobs:
