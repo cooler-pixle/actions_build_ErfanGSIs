@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.5.1.0.RJDCNXM/miui_APOLLO_V12.5.1.0.RJDCNXM_2efbaeca9c_11.0.zip
+  ROM_URL: http://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2031_A_1.19.18-update-full_1619161814.zip
   ROM_NAME: Generic
   TZ: Asia/Shanghai
 
