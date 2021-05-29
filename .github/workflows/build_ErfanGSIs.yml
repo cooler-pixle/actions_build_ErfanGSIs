@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/meizu17/8.2.0.1/cn/20210422104521/f965bcad/update.zip
-  ROM_NAME: Flyme
+  ROM_URL: http://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2031_A_1.19.18-update-full_1619161814.zip
+  ROM_NAME: Generic
   TZ: Asia/Shanghai
 
 jobs:
